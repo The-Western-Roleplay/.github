@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Roleplay-Central/.github/assets/91739770/24270c39-32ff-439a-92b9-183e6487cc0e" alt="TWRP Logo">
+  <img src="https://github.com/Roleplay-Central/.github/assets/91739770/24270c39-32ff-439a-92b9-183e6487cc0e" height="394px" width="512px" alt="TWRP Logo">
 </p>
 
 ## 👋 About The Organisation
